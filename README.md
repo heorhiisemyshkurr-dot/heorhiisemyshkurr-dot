@@ -31,6 +31,20 @@ field.
 Rust (Tauri 2, egui + wgpu, WGSL shaders, tokio) · Python (YOLO11, ONNX) ·
 TypeScript / React · Cloudflare Workers, Postgres · Kotlin · Docker
 
+### How I use AI
+
+I use AI tools every day and they make me much faster. I do not use them to
+write the whole thing for me.
+
+What I ship is code I have read. A generated solution is a draft from a fast
+colleague who never checks their own work: it compiles, it looks right, and
+some of it is wrong in a way that only shows up later. Finding that part is
+my job. Most of my time goes into reviewing, measuring and fixing, not into
+writing prompts.
+
+So I keep only what I can explain and defend — if I cannot say why a line is
+there, it does not stay.
+
 ### Notes
 
 Most comments in my code are in Ukrainian or Russian. They explain *why* a
